@@ -5,7 +5,7 @@ public class GitNN {
         System.out.println("git DEVELOP");
         System.out.println("git-LEARNING!!!");
         System.out.println("It`s terribly difficult");
-        System.out.println("Im happy");
+        System.out.println("Im SOOO happy");
         System.out.println("!!!");
     }
 }
